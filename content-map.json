@@ -1,0 +1,820 @@
+{
+  "meta": {
+    "title": "South African K53 Light Motor Vehicle Study Pack",
+    "created": "2026-09-28",
+    "target": "South African light motor vehicle learner's licence",
+    "exam_sections": {
+      "rules": {
+        "questions": 28,
+        "pass": 22
+      },
+      "signs": {
+        "questions": 28,
+        "pass": 23
+      },
+      "controls": {
+        "questions": 8,
+        "pass": 6
+      }
+    },
+    "source_policy": "NaTIS/Department of Transport manuals are primary; current government service pages used for administrative facts."
+  },
+  "modules": [
+    {
+      "id": "rules",
+      "title": "Rules of the Road",
+      "document": "01_Rules_of_the_Road.docx",
+      "modes": [
+        "lesson",
+        "flashcard",
+        "scenario",
+        "quiz"
+      ]
+    },
+    {
+      "id": "signs",
+      "title": "Road Signs, Signals & Markings",
+      "document": "02_Road_Signs_Signals_and_Markings.docx",
+      "modes": [
+        "image-card",
+        "flashcard",
+        "match",
+        "quiz"
+      ]
+    },
+    {
+      "id": "controls",
+      "title": "Vehicle Controls",
+      "document": "03_Vehicle_Controls.docx",
+      "modes": [
+        "hotspot",
+        "label",
+        "flashcard",
+        "quiz"
+      ]
+    },
+    {
+      "id": "numbers",
+      "title": "Numbers to Memorise",
+      "document": "04_Numbers_to_Memorise.docx",
+      "modes": [
+        "speed-drill",
+        "flashcard"
+      ]
+    },
+    {
+      "id": "traps",
+      "title": "Exam Traps & Exceptions",
+      "document": "05_Exam_Traps_and_Exceptions.docx",
+      "modes": [
+        "micro-lesson",
+        "scenario"
+      ]
+    },
+    {
+      "id": "mock",
+      "title": "Mock Test",
+      "document": "06_64_Question_Mock_Test.docx",
+      "modes": [
+        "timed-test",
+        "review-mistakes"
+      ]
+    }
+  ],
+  "question_bank": [
+    {
+      "section": "Rules of the Road",
+      "q": "What is the general speed limit on a public road in an urban area unless another limit is shown?",
+      "options": [
+        "60 km/h",
+        "80 km/h",
+        "100 km/h"
+      ],
+      "answer": 0,
+      "why": "The general urban limit is 60 km/h."
+    },
+    {
+      "section": "Rules of the Road",
+      "q": "What is the general speed limit on a non-freeway public road outside an urban area unless another limit is shown?",
+      "options": [
+        "80 km/h",
+        "100 km/h",
+        "120 km/h"
+      ],
+      "answer": 1,
+      "why": "The general non-freeway limit outside an urban area is 100 km/h."
+    },
+    {
+      "section": "Rules of the Road",
+      "q": "What is the general speed limit on a freeway unless another limit is shown?",
+      "options": [
+        "100 km/h",
+        "110 km/h",
+        "120 km/h"
+      ],
+      "answer": 2,
+      "why": "The general freeway limit is 120 km/h."
+    },
+    {
+      "section": "Rules of the Road",
+      "q": "When overtaking a vehicle travelling in the same direction, you normally pass it on:",
+      "options": [
+        "The right",
+        "The shoulder",
+        "Either side at any time"
+      ],
+      "answer": 0,
+      "why": "The normal rule is to pass on the right."
+    },
+    {
+      "section": "Rules of the Road",
+      "q": "May you exceed the speed limit while overtaking?",
+      "options": [
+        "Yes, briefly",
+        "Only on a freeway",
+        "No"
+      ],
+      "answer": 2,
+      "why": "The speed limit still applies while overtaking."
+    },
+    {
+      "section": "Rules of the Road",
+      "q": "A green traffic light allows you to enter an intersection when:",
+      "options": [
+        "The light is green regardless of congestion",
+        "There is enough space to clear the intersection",
+        "You sound your hooter"
+      ],
+      "answer": 1,
+      "why": "Do not block an intersection."
+    },
+    {
+      "section": "Rules of the Road",
+      "q": "At a traffic circle, unless another control applies, you should yield to:",
+      "options": [
+        "Traffic approaching from your right within the circle",
+        "Traffic behind you",
+        "Only buses"
+      ],
+      "answer": 0,
+      "why": "The learner manual states traffic in the circle from the right has priority unless controlled otherwise."
+    },
+    {
+      "section": "Rules of the Road",
+      "q": "Before changing lanes you should:",
+      "options": [
+        "Check mirrors, blind spot and safe gap",
+        "Only signal",
+        "Accelerate immediately"
+      ],
+      "answer": 0,
+      "why": "Observation and a safe gap are essential."
+    },
+    {
+      "section": "Rules of the Road",
+      "q": "A road shoulder is:",
+      "options": [
+        "A normal extra lane",
+        "Not a normal traffic lane",
+        "Always reserved for parking"
+      ],
+      "answer": 1,
+      "why": "Shoulder use is limited and conditional."
+    },
+    {
+      "section": "Rules of the Road",
+      "q": "If road conditions are poor, you should:",
+      "options": [
+        "Always drive at the posted limit",
+        "Reduce speed to a safe speed",
+        "Use high beam continuously"
+      ],
+      "answer": 1,
+      "why": "The legal maximum may still be unsafe."
+    },
+    {
+      "section": "Rules of the Road",
+      "q": "A learner driving a car must normally be accompanied by:",
+      "options": [
+        "Any adult",
+        "A person licensed to drive the relevant class",
+        "Another learner"
+      ],
+      "answer": 1,
+      "why": "A licensed supervising driver is required."
+    },
+    {
+      "section": "Rules of the Road",
+      "q": "What does an indicator give you?",
+      "options": [
+        "Right of way",
+        "A way to communicate intention",
+        "Permission to ignore a sign"
+      ],
+      "answer": 1,
+      "why": "Signals do not create priority."
+    },
+    {
+      "section": "Rules of the Road",
+      "q": "If you are involved in a collision, your first legal/safety duty includes:",
+      "options": [
+        "Driving away if the car still moves",
+        "Stopping",
+        "Deleting dashcam footage"
+      ],
+      "answer": 1,
+      "why": "A driver involved in a crash must stop."
+    },
+    {
+      "section": "Rules of the Road",
+      "q": "When parking, you should:",
+      "options": [
+        "Ignore bay markings",
+        "Avoid obstructing traffic and obey signs/markings",
+        "Park partly on the pavement whenever convenient"
+      ],
+      "answer": 1,
+      "why": "Parking must not create danger or contravene controls."
+    },
+    {
+      "section": "Rules of the Road",
+      "q": "Stopping on a freeway is normally:",
+      "options": [
+        "Allowed anywhere",
+        "Prohibited except in limited lawful circumstances",
+        "Allowed for phone calls"
+      ],
+      "answer": 1,
+      "why": "Freeway stopping is tightly restricted."
+    },
+    {
+      "section": "Rules of the Road",
+      "q": "Pedal cycles on a freeway are:",
+      "options": [
+        "Normally prohibited",
+        "Always allowed in the emergency lane",
+        "Allowed at night only"
+      ],
+      "answer": 0,
+      "why": "Pedal cycles are among vehicles prohibited on freeways."
+    },
+    {
+      "section": "Rules of the Road",
+      "q": "A hand-held mobile phone while driving should be:",
+      "options": [
+        "Used only below 40 km/h",
+        "Not held/operated by the driver",
+        "Used with hazard lights on"
+      ],
+      "answer": 1,
+      "why": "Hand-held use while driving is prohibited."
+    },
+    {
+      "section": "Rules of the Road",
+      "q": "High beam should be dipped when:",
+      "options": [
+        "It could dazzle another road user",
+        "The road is empty",
+        "You want to overtake"
+      ],
+      "answer": 0,
+      "why": "Do not dazzle other road users."
+    },
+    {
+      "section": "Rules of the Road",
+      "q": "The hooter is primarily used to:",
+      "options": [
+        "Show annoyance",
+        "Warn of danger",
+        "Claim priority"
+      ],
+      "answer": 1,
+      "why": "It is a warning device."
+    },
+    {
+      "section": "Rules of the Road",
+      "q": "A safe following gap should:",
+      "options": [
+        "Stay the same in all weather",
+        "Increase in poor conditions",
+        "Be reduced at night"
+      ],
+      "answer": 1,
+      "why": "Poor conditions require more stopping space."
+    },
+    {
+      "section": "Rules of the Road",
+      "q": "When turning, you should:",
+      "options": [
+        "Signal and then stop observing",
+        "Observe, signal, position and yield as required",
+        "Turn from any lane"
+      ],
+      "answer": 1,
+      "why": "Turning requires observation, signalling and correct positioning."
+    },
+    {
+      "section": "Rules of the Road",
+      "q": "A traffic officer signals you to proceed even though a normal sign would stop you. You should:",
+      "options": [
+        "Obey the traffic officer",
+        "Ignore the officer",
+        "Wait for another driver"
+      ],
+      "answer": 0,
+      "why": "Lawful directions by traffic officers take precedence."
+    },
+    {
+      "section": "Rules of the Road",
+      "q": "A load carried by a vehicle must:",
+      "options": [
+        "Be secure",
+        "Be allowed to drag slightly",
+        "Obstruct the driver\u2019s view if tied down"
+      ],
+      "answer": 0,
+      "why": "Loads must not create danger."
+    },
+    {
+      "section": "Rules of the Road",
+      "q": "Driving recklessly or negligently is:",
+      "options": [
+        "Allowed in an emergency only",
+        "An offence",
+        "Allowed on private-looking public roads"
+      ],
+      "answer": 1,
+      "why": "Reckless/negligent driving is prohibited."
+    },
+    {
+      "section": "Rules of the Road",
+      "q": "When another vehicle is merging from an on-ramp on a freeway, you should:",
+      "options": [
+        "Close the gap",
+        "Cooperate and maintain safe space",
+        "Stop in your lane"
+      ],
+      "answer": 1,
+      "why": "Safe merging requires cooperation and space."
+    },
+    {
+      "section": "Rules of the Road",
+      "q": "A speed-limit sign showing 80 means:",
+      "options": [
+        "You must drive exactly 80",
+        "You may not exceed 80 while it applies",
+        "80 is only a recommendation"
+      ],
+      "answer": 1,
+      "why": "It sets a maximum."
+    },
+    {
+      "section": "Rules of the Road",
+      "q": "If you cannot see enough clear road ahead to overtake safely, you should:",
+      "options": [
+        "Overtake quickly",
+        "Wait",
+        "Use the shoulder"
+      ],
+      "answer": 1,
+      "why": "Never overtake blindly."
+    },
+    {
+      "section": "Rules of the Road",
+      "q": "Seat belts fitted to a vehicle should:",
+      "options": [
+        "Be used as required",
+        "Be used only on freeways",
+        "Be ignored by rear passengers"
+      ],
+      "answer": 0,
+      "why": "Seat belts are a core occupant-safety requirement."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "An octagonal red sign means:",
+      "options": [
+        "Stop",
+        "Yield",
+        "No parking"
+      ],
+      "answer": 0,
+      "why": "STOP is the major octagonal exception to the usual round regulatory shape."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "A triangular sign with a red border normally indicates:",
+      "options": [
+        "Warning",
+        "Parking permission",
+        "Route number"
+      ],
+      "answer": 0,
+      "why": "Warning signs are generally triangular."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "A round regulatory sign primarily:",
+      "options": [
+        "Controls or restricts road-user action",
+        "Shows tourism information",
+        "Shows distance only"
+      ],
+      "answer": 0,
+      "why": "Regulatory signs tell you what you must/must not do."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "A YIELD sign requires you to:",
+      "options": [
+        "Always stop for 5 seconds",
+        "Give priority and stop if necessary",
+        "Accelerate"
+      ],
+      "answer": 1,
+      "why": "Yield does not always require a full stop."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "A NO ENTRY sign means:",
+      "options": [
+        "No parking",
+        "Do not enter from that direction",
+        "One-way road ends"
+      ],
+      "answer": 1,
+      "why": "Entry is prohibited."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "A NO U-TURN sign means:",
+      "options": [
+        "U-turn permitted if clear",
+        "U-turn prohibited",
+        "Turn right only"
+      ],
+      "answer": 1,
+      "why": "The manoeuvre is prohibited."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "A KEEP LEFT sign requires you to:",
+      "options": [
+        "Pass the obstruction on the left",
+        "Park on the left",
+        "Overtake on the left"
+      ],
+      "answer": 0,
+      "why": "It is a command sign."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "A warning sign showing pedestrians means you should:",
+      "options": [
+        "Speed up before they cross",
+        "Reduce speed and watch for pedestrians",
+        "Stop permanently"
+      ],
+      "answer": 1,
+      "why": "Prepare for a pedestrian hazard."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "A slippery-road warning means you should:",
+      "options": [
+        "Brake harshly",
+        "Reduce speed and avoid sudden inputs",
+        "Use cruise control"
+      ],
+      "answer": 1,
+      "why": "Smooth control reduces loss of grip."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "A sign warning of traffic signals ahead tells you to:",
+      "options": [
+        "Prepare to stop",
+        "Ignore the next signal",
+        "Change lanes immediately"
+      ],
+      "answer": 0,
+      "why": "The warning prepares you for signal control."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "A broken lane line may normally be crossed:",
+      "options": [
+        "When safe and lawful",
+        "Never",
+        "Only by trucks"
+      ],
+      "answer": 0,
+      "why": "Broken lines permit lane changes when safe."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "A solid barrier line generally means:",
+      "options": [
+        "Cross freely",
+        "Do not cross where prohibited",
+        "Parking only"
+      ],
+      "answer": 1,
+      "why": "It restricts crossing."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "At a stop line with a red traffic light you should stop:",
+      "options": [
+        "Beyond the line",
+        "Before the line",
+        "In the pedestrian crossing"
+      ],
+      "answer": 1,
+      "why": "Stop before the line."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "A yield line tells you to:",
+      "options": [
+        "Give way and stop if necessary",
+        "Park",
+        "Increase speed"
+      ],
+      "answer": 0,
+      "why": "It marks the give-way point."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "A painted island is an area you should normally:",
+      "options": [
+        "Drive over",
+        "Not drive, stop or park on",
+        "Use for overtaking"
+      ],
+      "answer": 1,
+      "why": "It separates/protects traffic space."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "A parking bay marking means:",
+      "options": [
+        "Park completely within the bay",
+        "Park across two bays",
+        "Stop only for loading"
+      ],
+      "answer": 0,
+      "why": "Keep the vehicle within the marked area."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "A steady red traffic light means:",
+      "options": [
+        "Proceed carefully",
+        "Stop",
+        "Turn in any direction"
+      ],
+      "answer": 1,
+      "why": "Red requires stopping."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "A steady green light means:",
+      "options": [
+        "Proceed only if the way is clear",
+        "You always have absolute priority",
+        "Pedestrians cannot be present"
+      ],
+      "answer": 0,
+      "why": "Green does not cancel other safety duties."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "An amber/yellow traffic light means:",
+      "options": [
+        "Accelerate to beat red",
+        "Stop if you can do so safely",
+        "Reverse"
+      ],
+      "answer": 1,
+      "why": "Do not rush the signal."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "A green arrow allows movement:",
+      "options": [
+        "In the arrow direction when safe",
+        "In all directions",
+        "Only for pedestrians"
+      ],
+      "answer": 0,
+      "why": "It applies to the shown direction."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "Guidance signs are mainly used to:",
+      "options": [
+        "Give route/direction help",
+        "Prohibit turns",
+        "Warn of immediate danger"
+      ],
+      "answer": 0,
+      "why": "Guidance helps navigation."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "Information signs mainly:",
+      "options": [
+        "Provide general useful information",
+        "Create criminal prohibitions",
+        "Replace traffic officers"
+      ],
+      "answer": 0,
+      "why": "They inform rather than command."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "Roadworks signs mean you should:",
+      "options": [
+        "Ignore temporary layouts",
+        "Expect changed conditions and obey temporary control",
+        "Drive at normal speed regardless"
+      ],
+      "answer": 1,
+      "why": "Temporary conditions require extra caution."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "A road marking nearest your vehicle in a combination line is important because:",
+      "options": [
+        "It determines whether crossing is allowed from your side",
+        "Only the far line matters",
+        "Both lines can always be crossed"
+      ],
+      "answer": 0,
+      "why": "Your side of the combination governs your movement."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "A yellow edge line marks:",
+      "options": [
+        "The left edge of the roadway",
+        "A parking bay only",
+        "The centre of every freeway"
+      ],
+      "answer": 0,
+      "why": "It commonly marks the roadway edge."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "A pedestrian crossing marking means you should:",
+      "options": [
+        "Keep the crossing clear and yield/stop as required",
+        "Park on it",
+        "Overtake on it"
+      ],
+      "answer": 0,
+      "why": "Pedestrian crossings must not be blocked."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "Directional arrows painted in a lane:",
+      "options": [
+        "Show permitted/intended lane movement",
+        "Are decoration",
+        "Apply only to motorcycles"
+      ],
+      "answer": 0,
+      "why": "Lane arrows guide/require movement."
+    },
+    {
+      "section": "Road Signs & Markings",
+      "q": "A NO STOPPING restriction is generally:",
+      "options": [
+        "Less strict than no parking",
+        "Stricter than no parking",
+        "The same as a speed limit"
+      ],
+      "answer": 1,
+      "why": "No stopping prevents even brief stops except lawful exceptions."
+    },
+    {
+      "section": "Vehicle Controls",
+      "q": "Which control changes the vehicle\u2019s direction?",
+      "options": [
+        "Steering wheel",
+        "Accelerator",
+        "Hooter"
+      ],
+      "answer": 0,
+      "why": "The steering wheel controls direction."
+    },
+    {
+      "section": "Vehicle Controls",
+      "q": "Which pedal normally slows/stops the vehicle?",
+      "options": [
+        "Accelerator",
+        "Service brake",
+        "Clutch only"
+      ],
+      "answer": 1,
+      "why": "The foot/service brake slows or stops."
+    },
+    {
+      "section": "Vehicle Controls",
+      "q": "In a manual car, the clutch is used mainly to:",
+      "options": [
+        "Disconnect/connect engine drive for gear changes/moving off",
+        "Operate the wipers",
+        "Apply the parking brake"
+      ],
+      "answer": 0,
+      "why": "The clutch connects/disconnects drive."
+    },
+    {
+      "section": "Vehicle Controls",
+      "q": "Which control holds the car stationary when parked?",
+      "options": [
+        "Parking brake",
+        "Indicator",
+        "Washer"
+      ],
+      "answer": 0,
+      "why": "The parking brake secures a stationary vehicle."
+    },
+    {
+      "section": "Vehicle Controls",
+      "q": "Which instrument shows road speed?",
+      "options": [
+        "Fuel gauge",
+        "Speedometer",
+        "Tachometer"
+      ],
+      "answer": 1,
+      "why": "The speedometer shows road speed."
+    },
+    {
+      "section": "Vehicle Controls",
+      "q": "Which control warns other road users of your intention to turn?",
+      "options": [
+        "Direction indicator",
+        "Demister",
+        "Bonnet release"
+      ],
+      "answer": 0,
+      "why": "Indicators communicate turning/lateral intention."
+    },
+    {
+      "section": "Vehicle Controls",
+      "q": "Which device helps clear rain from the windscreen?",
+      "options": [
+        "Wipers",
+        "Hooter",
+        "Odometer"
+      ],
+      "answer": 0,
+      "why": "Wipers clear the windscreen."
+    },
+    {
+      "section": "Vehicle Controls",
+      "q": "Mirrors do not remove the need to check:",
+      "options": [
+        "Fuel level",
+        "Blind spots",
+        "Tyre pressure every lane change"
+      ],
+      "answer": 1,
+      "why": "Blind spots can hide road users."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Western Cape Government \u2013 Learner\u2019s licence",
+      "url": "https://www.westerncape.gov.za/service/learners-licence"
+    },
+    {
+      "name": "South African Government \u2013 Apply for a learner\u2019s licence",
+      "url": "https://www.gov.za/services/driving-licence/apply-learners-licence"
+    },
+    {
+      "name": "NaTIS \u2013 SA Learner Driver Manual: Rules of the Road",
+      "url": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual/rules-of-the-road"
+    },
+    {
+      "name": "NaTIS \u2013 SA Learner Driver Manual: Road Traffic Signs",
+      "url": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual/road-traffic-signs"
+    },
+    {
+      "name": "NaTIS \u2013 SA Learner Driver Manual: Vehicle Controls",
+      "url": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual/vehicle-controls"
+    },
+    {
+      "name": "NaTIS \u2013 Minimum requirements for learner\u2019s licence tests",
+      "url": "https://www.natis.gov.za/index.php/downloads/general-documents"
+    },
+    {
+      "name": "Department of Transport \u2013 South African Road Traffic Signs Manual",
+      "url": "https://www.transport.gov.za/"
+    }
+  ]
+}
